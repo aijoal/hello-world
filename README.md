@@ -5,10 +5,20 @@ XRSM Read Me File
 Marketing Life Cycle: Market-Investment-(Conversion)-Return
 
 1. Market: Nation-Need matrix. How to segment the market needs and "make sense" to decision-making?
-2. Investment: Campaign with Cost. How to retrieve and aggregate Market & Return data within each campaign's minimum output unit?
-3. Conversion: Monitor loop of Campaign's traffic & engagement to Web's traffic & Engagement, note that metrics vary depending on Channel, Platform, and Strategy.
-4. Return: Nation-Service matrix. 
+The distribution of customer needs can be further segmented, depending on either raising brand & industry awareness or promoting products
 
+2. Investment: Campaign with Cost. How to retrieve and aggregate Market & Return data within each campaign's minimum output unit?
+Campaign includes Online(SEM,SEO,SNS,B2B,EDM,Direct Click Through) Offline(Exibition,Sale)
+Campaign Feature:  C=Channel, P=Platform, L=Language, O=Ordinal, S=Strategy 
+Makeup Data Source:  SEM's      Google      English     #1         Search   account.
+
+3. Conversion: Monitor loop of Campaign's traffic & engagement to Web's traffic & Engagement. 
+CT,CE,WT,WE Metrics vary depending on Channel, Platform, and Strategy.
+
+4. Return: Nation-Service enquiry matrix.
+
+
+------------------Market---------------------|-----------Investment-------------|--------------Conversion--------------|-----Return----|
 Nation  Customer Need Segmentation            Campaign     Investment  Currency  (Campaign,Web)'~(Traffic, Engagement)    Enquiry
 TGT     Mining Equipment/Machinery            C,P,L,O,S     77,000        CNY       CT      CE      WT       WE            53
 TGT     Mineral/Ore Processing/Beneficiation  C,P,L,O,S     56,700        CNY       CT      CE      WT       WE            33
@@ -32,12 +42,8 @@ TGT     Flotation Machine                     C,P,L,O,S      9,100        CNY  
 TGT     Other Products                        C,P,L,O,S     44,800        CNY       CT      CE      WT       WE            25
 TGT     ---------------Products-------------- C,P,L,O,S    175,700        CNY       CT      CE      WT       WE           175
 
-Note.0 Campaign Feature:  C=Channel, P=Platform, L=Language, O=Ordinal, S=Strategy 
-Note.1 Makeup Data Source:  SEM's      Google      English     #1         Search   account.
-Note.2 The distribution of customer needs can be further segmented, depending on either raising brand & industry awareness or promoting products
 
 
-1.2 Investment: Online(SEM,SEO,SNS,B2B,EDM,Direct Click Through) Offline()
 
 
 
