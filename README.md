@@ -4,47 +4,43 @@ XRSM Read Me File
 
 Marketing Life Cycle: Market-Investment-(Conversion)-Return
 
-1. Market: Nation-Need matrix. How to segment the market needs and "make sense" to decision-making?
-The distribution of customer needs can be further segmented, depending on either raising brand & industry awareness or promoting products
+1. Market: Nation-Segmentation Strategy matrix. How to segment the market needs and "make sense" to decision-making?
+The distribution of customer needs can be further segmented, depending on either raising brand & industry awareness or promoting products.
 
 2. Investment: Campaign with Cost. How to retrieve and aggregate Market & Return data within each campaign's minimum output unit?
 Campaign includes Online(SEM,SEO,SNS,B2B,EDM,Direct Click Through) Offline(Exibition,Sale)
-Campaign Feature:  C=Channel, P=Platform, L=Language, O=Ordinal, S=Strategy 
-Makeup Data Source:  SEM's      Google      English     #1         Search   account.
+Campaign Feature:  Ch=Channel, P=Platform, L=Language, O=Ordinal, S=Strategy 
+Makeup Data Source:   SEM's      Google      English     #1         Search   account.
 
-3. Conversion: Monitor loop of Campaign's traffic & engagement to Web's traffic & Engagement. 
-CT,CE,WT,WE Metrics vary depending on Channel, Platform, and Strategy.
+3. Conversion: Monitor loop of Platform's traffic & engagement to Web's traffic & Engagement. 
+PT,PE,WT,WE Metrics vary depending on Channel, Platform, and Strategy.
 
 4. Return: Nation-Service enquiry matrix.
 
 
 ------------------Market---------------------|-----------Investment-------------|--------------Conversion--------------|-----Return----|
-Nation  Customer Need Segmentation            Campaign     Investment  Currency  (Campaign,Web)'~(Traffic, Engagement)    Enquiry
-TGT     Mining Equipment/Machinery            C,P,L,O,S     77,000        CNY       CT      CE      WT       WE            53
-TGT     Mineral/Ore Processing/Beneficiation  C,P,L,O,S     56,700        CNY       CT      CE      WT       WE            33
-TGT     Brand/Designer/Consultancy            C,P,L,O,S     23,100        CNY       CT      CE      WT       WE            20
-TGT     Other Info Policy/Resource/Ore deal   C,P,L,O,S     14,700        CNY       CT      CE      WT       WE            20
-TGT     ---------------General--------------- C,P,L,O,S    171,500        CNY       CT      CE      WT       WE           126
+Nation  Segmentation Strategy                 Campaign     Investment  Currency  (Platform,Web)'~(Traffic, Engagement)    Enquiry
+TGT     Mining Equipment/Machinery            C,P,L,O,G     77,000        CNY       PT      PE      WT       WE            53
+TGT     Mineral/Ore Processing/Beneficiation  C,P,L,O,G     56,700        CNY       PT      PE      WT       WE            33
+TGT     Brand/Company/Consultancy             C,P,L,O,G     23,100        CNY       PT      PE      WT       WE            20
+TGT     Other Info Policy/Resource/Ore deal   C,P,L,O,G     14,700        CNY       PT      PE      WT       WE            20
+TGT     ---------------General--------------- C,P,L,O,G    171,500        CNY       PT      PE      WT       WE           126
+                                
+Nation  Segmentation Strategy                 Campaign     Investment  Currency  (Campaign,Web)'~(Traffic, Engagement)    Enquiry
+TGT     Gold                                  C,P,L,O,G    201,600        CNY       PT      PE      WT       WE           218     
+TGT     Copper                                C,P,L,O,G     40,600        CNY       PT      PE      WT       WE            41      
+TGT     Iron                                  C,P,L,O,G     38,500        CNY       PT      PE      WT       WE            21      
+TGT     Other EPC                             C,P,L,O,G     71,400        CNY       PT      PE      WT       WE            50      
+TGT     -----------------EPC----------------- C,P,L,O,G    352,100        CNY       PT      PE      WT       WE           330
 
-Nation  Customer Need Segmentation            Campaign     Investment  Currency  (Campaign,Web)'~(Traffic, Engagement)    Enquiry
-TGT     Gold                                  C,P,L,O,S    201,600        CNY       CT      CE      WT       WE           218     
-TGT     Copper                                C,P,L,O,S     40,600        CNY       CT      CE      WT       WE            41      
-TGT     Iron                                  C,P,L,O,S     38,500        CNY       CT      CE      WT       WE            21      
-TGT     Other EPC                             C,P,L,O,S     71,400        CNY       CT      CE      WT       WE            50      
-TGT     -----------------EPC----------------- C,P,L,O,S    352,100        CNY       CT      CE      WT       WE           330
-
-Nation  Customer Need Segmentation            Campaign     Investment  Currency  (Campaign,Web)'~(Traffic, Engagement)    Enquiry
-TGT     Ball mill                             C,P,L,O,S     60,900        CNY       CT      CE      WT       WE            55
-TGT     Gravity/Magnetic Separator            C,P,L,O,S     28,700        CNY       CT      CE      WT       WE            34
-TGT     Dewatering Machine/Filter Press       C,P,L,O,S     21,700        CNY       CT      CE      WT       WE            27
-TGT     Screening Machine                     C,P,L,O,S      9,800        CNY       CT      CE      WT       WE            19
-TGT     Flotation Machine                     C,P,L,O,S      9,100        CNY       CT      CE      WT       WE            15
-TGT     Other Products                        C,P,L,O,S     44,800        CNY       CT      CE      WT       WE            25
-TGT     ---------------Products-------------- C,P,L,O,S    175,700        CNY       CT      CE      WT       WE           175
-
-
-
-
+Nation  Segmentation Strategy                 Campaign     Investment  Currency  (Campaign,Web)'~(Traffic, Engagement)    Enquiry
+TGT     Ball mill                             C,P,L,O,G     60,900        CNY       PT      PE      WT       WE            55
+TGT     Gravity/Magnetic Separator            C,P,L,O,G     28,700        CNY       PT      PE      WT       WE            34
+TGT     Dewatering Machine/Filter Press       C,P,L,O,G     21,700        CNY       PT      PE      WT       WE            27
+TGT     Screening Machine                     C,P,L,O,G      9,800        CNY       PT      PE      WT       WE            19
+TGT     Flotation Machine                     C,P,L,O,G      9,100        CNY       PT      PE      WT       WE            15
+TGT     Other Products                        C,P,L,O,G     44,800        CNY       PT      PE      WT       WE            25
+TGT     ---------------Products-------------- C,P,L,O,G    175,700        CNY       PT      PE      WT       WE           175
 
 
 
