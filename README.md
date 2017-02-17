@@ -2,41 +2,41 @@ XRSM Read Me File
 ----------------------------------------------------------------------------------------------------------------------------------------
 2.17.2017   V1.0.1
 
-1.Marketing Life Cycle: Segmentation-Investment-Return
+Marketing Life Cycle: Market-Investment-Return
 
-1.1 Segmentation: Nation/Product  MVP/NVP or Catalog? How to precisely segment the market and "make sense" to decision-making
+1. Market: Nation multiply Needs. How to segment the market needs and "make sense" to decision-making?
+2. Investment: Campaign with Cost. How to segment campaigns? How to collect Market & Return data within each campaign's minimum unit?
+3. Return: Monitor loop of Campaign's traffic & engagement to Web's traffic & Engagement, note that metrics vary depending on Channel, Platform, and Strategy. 
 
-Category                                 Investment  Return  
-Mining Equipment/Machinery               10.9%       8%
-General Mineral/Ore Processing            7.2%       5%
-Mining Companies/Designer/Consultancy     3.2%       3%
-Other Info Policy/Market/Human Labor      2.1%       3%
-----------------General----------------- 23.4%       19%
+Nation  Customer Need Segmentation            Campaign     Investment  Currency  (Campaign,Web)'~(Traffic, Engagement)    Enquiry
+TGT     Mining Equipment/Machinery            C,P,L,O,S     77,000        CNY       CT      CE      WT       WE            53
+TGT     Mineral/Ore Processing/Beneficiation  C,P,L,O,S     56,700        CNY       CT      CE      WT       WE            33
+TGT     Brand/Designer/Consultancy            C,P,L,O,S     23,100        CNY       CT      CE      WT       WE            20
+TGT     Other Info Policy/Resource/Ore deal   C,P,L,O,S     14,700        CNY       CT      CE      WT       WE            20
+TGT     ---------------General--------------- C,P,L,O,S    171,500        CNY       CT      CE      WT       WE           126
 
+Nation  Customer Need Segmentation            Campaign     Investment  Currency  (Campaign,Web)'~(Traffic, Engagement)    Enquiry
+TGT     Gold                                  C,P,L,O,S    201,600        CNY       CT      CE      WT       WE           218     
+TGT     Copper                                C,P,L,O,S     40,600        CNY       CT      CE      WT       WE            41      
+TGT     Iron                                  C,P,L,O,S     38,500        CNY       CT      CE      WT       WE            21      
+TGT     Other EPC                             C,P,L,O,S     71,400        CNY       CT      CE      WT       WE            50      
+TGT     -----------------EPC----------------- C,P,L,O,S    352,100        CNY       CT      CE      WT       WE           330
 
-Category     Investment  Return  
-Gold         28.4%       33%     
-Copper        5.7%       6%      
-Iron          5.4%       3%      
-Other EPC     8.8%       8%      
------EPC----- 48.3%      50%
+Nation  Customer Need Segmentation            Campaign     Investment  Currency  (Campaign,Web)'~(Traffic, Engagement)    Enquiry
+TGT     Ball mill                             C,P,L,O,S     60,900        CNY       CT      CE      WT       WE            55
+TGT     Gravity/Magnetic Separator            C,P,L,O,S     28,700        CNY       CT      CE      WT       WE            34
+TGT     Dewatering Machine/Filter Press       C,P,L,O,S     21,700        CNY       CT      CE      WT       WE            27
+TGT     Screening Machine                     C,P,L,O,S      9,800        CNY       CT      CE      WT       WE            19
+TGT     Flotation Machine                     C,P,L,O,S      9,100        CNY       CT      CE      WT       WE            15
+TGT     Other Products                        C,P,L,O,S     44,800        CNY       CT      CE      WT       WE            25
+TGT     ---------------Products-------------- C,P,L,O,S    175,700        CNY       CT      CE      WT       WE           175
 
-Category                         Investment       Return
-Ball mill                                         8%
-Gravity/Magnetic Separator                        5%
-Dewatering Machine/Filter Press                   4%
-Screening Machine                                 3%
-Flotation Machine                                 3%
-Other Products                                    8%
--------------Products-----------                  31%
-
-Note.1 Source: SEM's Google English Search Account #1 from 2014.11-2016.7. A,B,C enquiries counted, Nigeria,India,Zimbabwe excluded
-Note.2 While taking the above needs as a reference in each channel, though the distribution varies.
+Note.0 Campaign Feature:  C=Channel, P=Platform, L=Language, O=Ordinal, S=Strategy 
+Note.1 Makeup Data Source:  SEM's      Google      English     #1         Search   account.
+Note.2 The distribution of customer needs can be further segmented, depending on either raising brand & industry awareness or promoting products
 
 
 1.2 Investment: Online(SEM,SEO,SNS,B2B,EDM,Direct Click Through) Offline()
-
-Nation/Product defined by campaign level, detail defined by group level
 
 
 
