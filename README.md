@@ -2,11 +2,12 @@ XRSM Read Me File
 ----------------------------------------------------------------------------------------------------------------------------------------
 2.17.2017   V1.0.1
 
-Marketing Life Cycle: Market-Investment-Return
+Marketing Life Cycle: Market-Investment-(Conversion)-Return
 
-1. Market: Nation multiply Needs. How to segment the market needs and "make sense" to decision-making?
-2. Investment: Campaign with Cost. How to segment campaigns? How to collect Market & Return data within each campaign's minimum unit?
-3. Return: Monitor loop of Campaign's traffic & engagement to Web's traffic & Engagement, note that metrics vary depending on Channel, Platform, and Strategy. 
+1. Market: Nation-Need matrix. How to segment the market needs and "make sense" to decision-making?
+2. Investment: Campaign with Cost. How to retrieve and aggregate Market & Return data within each campaign's minimum output unit?
+3. Conversion: Monitor loop of Campaign's traffic & engagement to Web's traffic & Engagement, note that metrics vary depending on Channel, Platform, and Strategy.
+4. Return: Nation-Service matrix. 
 
 Nation  Customer Need Segmentation            Campaign     Investment  Currency  (Campaign,Web)'~(Traffic, Engagement)    Enquiry
 TGT     Mining Equipment/Machinery            C,P,L,O,S     77,000        CNY       CT      CE      WT       WE            53
