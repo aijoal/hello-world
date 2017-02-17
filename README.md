@@ -8,41 +8,41 @@ Marketing Life Cycle: Market-Investment-(Conversion)-Return
 The distribution of customer needs can be further segmented, depending on either raising brand & industry awareness or promoting products.
 
 2. Investment: Campaign with Cost. How to retrieve and aggregate Market & Return data within each campaign's minimum output unit?
-Campaign includes Online(SEM,SEO,SNS,B2B,EDM,Direct Click Through) Offline(Exibition,Sale)
-Campaign Feature:  Ch=Channel, P=Platform, L=Language, O=Ordinal, S=Strategy 
-Makeup Data Source:   SEM's      Google      English     #1         Search   account.
+Channel includes Online(SEM,SEO,SNS,B2B,EDM,Direct Click Through) Offline(Exibition,Sale)
+Campaign Feature:  Ch=Channel, P=Platform, L=Language, O=Ordinal, T=Type， G=Group 
+Data Source Example:  SEM's      Google      English     #1         Search   account.
 
-3. Conversion: Monitor loop of Platform's traffic & engagement to Web's traffic & Engagement. 
+3. Conversion: Monitor loop of Platform's traffic & engagement to Web's traffic & Engagement on different device in different nations
 PT,PE,WT,WE Metrics vary depending on Channel, Platform, and Strategy.
 
-4. Return: Nation-Service enquiry matrix.
+4. Return: Nation-Material-Need-Capacity enquiry number
 
 
-------------------Market---------------------|-----------Investment-------------|--------------Conversion--------------|-----Return----|
-Nation  Segmentation Strategy                 Campaign     Investment  Currency  (Platform,Web)'~(Traffic, Engagement)    Enquiry
-TGT     Mining Equipment/Machinery            C,P,L,O,G     77,000        CNY       PT      PE      WT       WE            53
-TGT     Mineral/Ore Processing/Beneficiation  C,P,L,O,G     56,700        CNY       PT      PE      WT       WE            33
-TGT     Brand/Company/Consultancy             C,P,L,O,G     23,100        CNY       PT      PE      WT       WE            20
-TGT     Other Info Policy/Resource/Ore deal   C,P,L,O,G     14,700        CNY       PT      PE      WT       WE            20
-TGT     ---------------General--------------- C,P,L,O,G    171,500        CNY       PT      PE      WT       WE           126
-                                
-Nation  Segmentation Strategy                 Campaign     Investment  Currency  (Campaign,Web)'~(Traffic, Engagement)    Enquiry
-TGT     Gold                                  C,P,L,O,G    201,600        CNY       PT      PE      WT       WE           218     
-TGT     Copper                                C,P,L,O,G     40,600        CNY       PT      PE      WT       WE            41      
-TGT     Iron                                  C,P,L,O,G     38,500        CNY       PT      PE      WT       WE            21      
-TGT     Other EPC                             C,P,L,O,G     71,400        CNY       PT      PE      WT       WE            50      
-TGT     -----------------EPC----------------- C,P,L,O,G    352,100        CNY       PT      PE      WT       WE           330
+------------------Market---------------------|-------Investment------|------------------Conversion--------------------|-----Return-----|
+Nation  Segmentation Strategy                 Campaign     Investment  Feature   (Platform,Web)'~(Traffic, Engagement)    Enquiry(Smplf)
+Na      Mining Equipment/Machinery            Ch,P,L,O,T,G   77,000      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   53
+Na      Mineral/Ore Processing/Beneficiation  Ch,P,L,O,T,G   56,700      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   33
+Na      Brand/Company/Consultancy             Ch,P,L,O,T,G   23,100      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   20
+Na      Other Info Policy/Resource/Ore deal   Ch,P,L,O,T,G   14,700      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   20
+Na      ---------------General--------------- Ch,P,L,O,T,G  171,500      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca  126
+                               
+Nation  Segmentation Strategy                 Campaign     Investment  Feature   (Campaign,Web)'~(Traffic, Engagement)    Enquiry(Smplf)
+Na      Gold                                  Ch,P,L,O,T,G  201,600      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca  218
+Na      Copper                                Ch,P,L,O,T,G   40,600      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   41
+Na      Iron                                  Ch,P,L,O,T,G   38,500      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   21 
+Na      Other EPC                             Ch,P,L,O,T,G   71,400      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   50 
+Na      -----------------EPC----------------- Ch,P,L,O,T,G  352,100      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca  330
 
-Nation  Segmentation Strategy                 Campaign     Investment  Currency  (Campaign,Web)'~(Traffic, Engagement)    Enquiry
-TGT     Ball mill                             C,P,L,O,G     60,900        CNY       PT      PE      WT       WE            55
-TGT     Gravity/Magnetic Separator            C,P,L,O,G     28,700        CNY       PT      PE      WT       WE            34
-TGT     Dewatering Machine/Filter Press       C,P,L,O,G     21,700        CNY       PT      PE      WT       WE            27
-TGT     Screening Machine                     C,P,L,O,G      9,800        CNY       PT      PE      WT       WE            19
-TGT     Flotation Machine                     C,P,L,O,G      9,100        CNY       PT      PE      WT       WE            15
-TGT     Other Products                        C,P,L,O,G     44,800        CNY       PT      PE      WT       WE            25
-TGT     ---------------Products-------------- C,P,L,O,G    175,700        CNY       PT      PE      WT       WE           175
+Nation  Segmentation Strategy                 Campaign     Investment  Feature   (Campaign,Web)'~(Traffic, Engagement)    Enquiry(Smplf)
+Na      Ball mill                             Ch,P,L,O,T,G   60,900      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   55
+Na      Gravity/Magnetic Separator            Ch,P,L,O,T,G   28,700      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   34
+Na      Dewatering Machine/Filter Press       Ch,P,L,O,T,G   21,700      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   27
+Na      Screening Machine                     Ch,P,L,O,T,G    9,800      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   19
+Na      Flotation Machine                     Ch,P,L,O,T,G    9,100      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   15
+Na      Other Products                        Ch,P,L,O,T,G   44,800      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   25
+Na      ---------------Products-------------- Ch,P,L,O,T,G  175,700      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca  175
 
-
+Note: the node of characteristic is ad Group, matched by URL in the later session, some need manual labor which are also routine work.
 
 
 
