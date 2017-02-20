@@ -1,4 +1,14 @@
 XRSM Read Me File
+
+----------------------------------------------------------------------------------------------------------------------------------------
+2.20.2017   V1.0.2
+
+
+
+
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 2.17.2017   V1.0.1
 
@@ -7,40 +17,40 @@ Marketing Life Cycle: Market-Investment-(Conversion)-Return
 1. Market: Nation-Segmentation Strategy matrix. How to segment the market needs and "make sense" to decision-making?
 The distribution of customer needs can be further segmented, depending on either raising brand & industry awareness or promoting products.
 
-2. Investment: Campaign with Cost. How to retrieve and aggregate Market & Return data within each campaign's minimum output unit?
+2. Investment: Cost of Promotion, CoP. How to retrieve and aggregate Market & Return data within each campaign's minimum output unit?
 Channel includes Online(SEM,SEO,SNS,B2B,EDM,Direct Click Through) Offline(Exibition,Sale)
 Campaign Feature:  Ch=Channel, P=Platform, L=Language, O=Ordinal, T=Type， G=Group 
-Data Source Example:  SEM's      Google      English     #1         Search   account.
+Data Source Example:  SEM's      Google      English     #1         Search   gold mining    account.
 
 3. Conversion: Monitor loop of Platform's traffic & engagement to Web's traffic & Engagement on different device in different nations
 PT,PE,WT,WE Metrics vary depending on Channel, Platform, and Strategy.
 
-4. Return: Nation-Material-Need-Capacity enquiry number
+4. Return: Nation-Material-Need-Capacity-Level enquiry number NoE. (Further Modeling)
 
 
 ------------------Market---------------------|-------Investment------|------------------Conversion--------------------|-----Return-----|
 Nation  Segmentation Strategy                 Campaign     Investment  Feature   (Platform,Web)'~(Traffic, Engagement)    Enquiry(Smplf)
-Na      Mining Equipment/Machinery            Ch,P,L,O,T,G   77,000      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   53
-Na      Mineral/Ore Processing/Beneficiation  Ch,P,L,O,T,G   56,700      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   33
-Na      Brand/Company/Consultancy             Ch,P,L,O,T,G   23,100      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   20
-Na      Other Info Policy/Resource/Ore deal   Ch,P,L,O,T,G   14,700      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   20
-Na      ---------------General--------------- Ch,P,L,O,T,G  171,500      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca  126
+Na      Mining Equipment/Machinery            Ch,P,La,O,T,G  77,000      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  53
+Na      Mineral/Ore Processing/Beneficiation  Ch,P,La,O,T,G  56,700      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  33
+Na      Brand/Company/Consultancy             Ch,P,La,O,T,G  23,100      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  20
+Na      Other Info Policy/Resource/Ore deal   Ch,P,La,O,T,G  14,700      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  20
+Na      ---------------General--------------- Ch,P,La,O,T,G 171,500      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le 126
                                
-Nation  Segmentation Strategy                 Campaign     Investment  Feature   (Campaign,Web)'~(Traffic, Engagement)    Enquiry(Smplf)
-Na      Gold                                  Ch,P,L,O,T,G  201,600      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca  218
-Na      Copper                                Ch,P,L,O,T,G   40,600      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   41
-Na      Iron                                  Ch,P,L,O,T,G   38,500      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   21 
-Na      Other EPC                             Ch,P,L,O,T,G   71,400      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   50 
-Na      -----------------EPC----------------- Ch,P,L,O,T,G  352,100      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca  330
+Nation  Segmentation Strategy                 Campaign     Investment  Feature   (Platform,Web)'~(Traffic, Engagement)    Enquiry(Smplf)
+Na      Gold                                  Ch,P,La,O,T,G 201,600      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le 218
+Na      Copper                                Ch,P,La,O,T,G  40,600      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  41
+Na      Iron                                  Ch,P,La,O,T,G  38,500      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  21 
+Na      Other EPC                             Ch,P,La,O,T,G  71,400      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  50 
+Na      -----------------EPC----------------- Ch,P,La,O,T,G 352,100      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le 330
 
 Nation  Segmentation Strategy                 Campaign     Investment  Feature   (Campaign,Web)'~(Traffic, Engagement)    Enquiry(Smplf)
-Na      Ball mill                             Ch,P,L,O,T,G   60,900      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   55
-Na      Gravity/Magnetic Separator            Ch,P,L,O,T,G   28,700      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   34
-Na      Dewatering Machine/Filter Press       Ch,P,L,O,T,G   21,700      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   27
-Na      Screening Machine                     Ch,P,L,O,T,G    9,800      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   19
-Na      Flotation Machine                     Ch,P,L,O,T,G    9,100      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   15
-Na      Other Products                        Ch,P,L,O,T,G   44,800      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca   25
-Na      ---------------Products-------------- Ch,P,L,O,T,G  175,700      Na,D        PT     PE      WT       WE         Na,M,Ne,Ca  175
+Na      Ball mill                             Ch,P,La,O,T,G  60,900      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  55
+Na      Gravity/Magnetic Separator            Ch,P,La,O,T,G  28,700      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  34
+Na      Dewatering Machine/Filter Press       Ch,P,La,O,T,G  21,700      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  27
+Na      Screening Machine                     Ch,P,La,O,T,G   9,800      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  19
+Na      Flotation Machine                     Ch,P,La,O,T,G   9,100      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  15
+Na      Other Products                        Ch,P,La,O,T,G  44,800      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le  25
+Na      ---------------Products-------------- Ch,P,La,O,T,G 175,700      Na,D        PT     PE      WT       WE       Na,M,Ne,Ca,Le 175
 
 Note: the node of characteristic is ad Group, matched by URL in the later session, some need manual labor which are also routine work.
 
