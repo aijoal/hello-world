@@ -3,12 +3,49 @@ XRSM Read Me File
 ----------------------------------------------------------------------------------------------------------------------------------------
 2.20.2017   V1.0.2
 
+You need to declare all the numerical(integer or float) and catogorical(String) variables and give them names.
+Market 
+Na: The nation that appears in the campaign's marketing option, including countries all over the world
 
+Investment
+Ch: The marketing channel that you put investment in. Including SEM,SEO,SNS,B2B,Direct,EDM,Exibition,Sales
+P: The platform within the channel. 
+   SEM:Google,Bing,Yandex,Baidu,Sogou,360,Shenma. 
+   SEO:Google/Bing/Baidu
+   SNS:Facebook/Instgram/Linkedin/Twitter/Youtube/Pinterest
+   B2B:Alibaba/Tradekey/Huicong/Zhongguo Zhizao
+   Exibition:
+La: Language used in this campaign. Including 0.Chinese 1.English 2.Spanish 3.Russian 4.Arabian 5.Other
+O: Ordial Number that distinguishes. Representing the administrator
+T: Type of ad form used. Including search, display, remarketing, video viewing, post boosting
+S: The Strategy that a campaign choose as a method of promotion, including EPC promotions, beneficiation products promotions, and          promotion of general mining needs, promotion of general beneficiation needs, brand awareness promotions, case sharing promotions, and    other policy, market info promotions.(Or categorized simply as EPC,Products,Brand Awareness)
+G: Name of Ad Group, represent the minimum budget unit.
+CoP: Cost of Promotion, unified to CNY
 
+Conversion
+D: Device of Mobile or PC
+Pt: Platform Traffic. Including Search engine's impression, Social network's impression, B2B's impression
+Pcl: Platform clicks. Including Search engine's clicks, Social network's clicks, likes, replies. B2B platform's clicks
+Pd: Platform dialogues
+Pm: Platform messages
+Pe: Platform emails
+Pca: Platform calls
+Na: Nation record on web
+Wt: Web Traffic of page loads on Business links
+Wd: Web dialogues
+Wm: Web messages
+We: Web emails
+Wca: Web calls
 
+Return
+Na: Nation where project locates
+M: Material that need to be processed, including different segmentation methods
+Ne: Service need
+Ca: Capacity Range
+Le: Level of Overall Rating
+NoE: Number of Enquiry
 
-
-
+一共15个分类数据，14个数量数据。按顺序这些数据将在推广平台，推广后台（第三方工具），商务通，和富通中产生。下面分部门描述如何得到各部分的数据
 ----------------------------------------------------------------------------------------------------------------------------------------
 2.17.2017   V1.0.1
 
