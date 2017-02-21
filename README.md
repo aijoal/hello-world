@@ -1,6 +1,23 @@
 XRSM Read Me File
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+2.21.2017   V1.0.4
+
+Paper works on
+1. Background and meaning
+2. Thoughts of the system flow
+3. Design Pattern
+4. Clarification of Variable Availibility
+
+----------------------------------------------------------------------------------------------------------------------------------------
+2.21.2017   V1.0.3
+
+Drawing mind manager map, give clarification of each variable, including how to get them from the platform in each department.
+
+The mind manager chart also make us ponder:
+1. Which viewpoint should we choose as the minimum implementing unit: individual or department?
+
+----------------------------------------------------------------------------------------------------------------------------------------
 2.20.2017   V1.0.2
 
 You need to declare all the numerical(integer or float) and catogorical(String) variables and give them names.
@@ -15,7 +32,7 @@ P: The platform within the channel.
    SNS:Facebook/Instgram/Linkedin/Twitter/Youtube/Pinterest
    B2B:Alibaba/Tradekey/Huicong/Zhongguo Zhizao
    Exibition:
-La: Language used in this campaign. Including 0.Chinese 1.English 2.Spanish 3.Russian 4.Arabian 5.Other
+L: Language used in this campaign. Including 0.Chinese 1.English 2.Spanish 3.Russian 4.Arabian 5.Other
 O: Ordial Number that distinguishes. Representing the administrator
 T: Type of ad form used. Including search, display, remarketing, video viewing, post boosting
 S: The Strategy that a campaign choose as a method of promotion, including EPC promotions, beneficiation products promotions, and          promotion of general mining needs, promotion of general beneficiation needs, brand awareness promotions, case sharing promotions, and    other policy, market info promotions.(Or categorized simply as EPC,Products,Brand Awareness)
@@ -42,7 +59,7 @@ Na: Nation where project locates
 M: Material that need to be processed, including different segmentation methods
 Ne: Service need
 Ca: Capacity Range
-Le: Level of Overall Rating
+R: Rating of the enquiry
 NoE: Number of Enquiry
 
 一共15个分类数据，14个数量数据。按顺序这些数据将在推广平台，推广后台（第三方工具），商务通，和富通中产生。下面分部门描述如何得到各部分的数据
