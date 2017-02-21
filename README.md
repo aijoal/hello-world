@@ -11,7 +11,7 @@ Investment
 Ch: The marketing channel that you put investment in. Including SEM,SEO,SNS,B2B,Direct,EDM,Exibition,Sales
 P: The platform within the channel. 
    SEM:Google,Bing,Yandex,Baidu,Sogou,360,Shenma. 
-   SEO:Google/Bing/Baidu
+   SEO:Google/Bing/Yahoo/Baidu
    SNS:Facebook/Instgram/Linkedin/Twitter/Youtube/Pinterest
    B2B:Alibaba/Tradekey/Huicong/Zhongguo Zhizao
    Exibition:
